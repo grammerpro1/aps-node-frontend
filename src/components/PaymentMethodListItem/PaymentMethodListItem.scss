@@ -1,0 +1,12 @@
+.payment-method-list-item {
+  border: 1px solid #c0c0c0;
+  margin-bottom: 6px;
+  padding: 5px;
+  min-height: 100px;
+  cursor: pointer;
+
+  &:hover {
+    background-color: #c0c0c0;
+    transition: 1s;
+  }
+}

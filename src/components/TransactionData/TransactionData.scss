@@ -1,0 +1,17 @@
+.transaction-data {
+  border: 1px solid #c0c0c0;
+  min-width: 600px;
+  text-align: center;
+  padding: 5px;
+
+  &__title {
+    font-size: 40px;
+  }
+
+  &__info {
+    font-size: 30px;
+    &__field {
+      font-weight: 8;
+    }
+  }
+}
